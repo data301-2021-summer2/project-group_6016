@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 6016 - Bike sharing excel spreadsheet
 
 - Your title can change over time.
 
@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+
 
 ## Describe your dataset in about 150-200 words
 
@@ -16,10 +16,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Theodore Chen: I am Theodore I love sports, video games and anime, nice to meet you!
+
 
 ## References
 
-{Add your stuff here}
+https://docs.google.com/spreadsheets/d/1DYnYR1bu1oRQ5ZMNwl5emfYzoYkr6P-JvULtYUTGtSg/edit#gid=0
